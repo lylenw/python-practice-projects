@@ -1,4 +1,5 @@
 python-practice-projects
 ========================
 
-Educational projects in python
+Repository for hosting all of my education projects built to learn working
+with the Python programming language.
